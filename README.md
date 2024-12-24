@@ -1,3 +1,3 @@
-# hyunwookkim418.github.io
+# prashant-gi.github.io
 
 This repository contains my portfolio website.
